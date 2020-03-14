@@ -40,8 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # local apps
-    'src.updates',
-    'src.status',
+    'updates',
+    'status',
 ]
 
 MIDDLEWARE = [
